@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cherry-pick practice
+=======
+Testing Git hooks
+>>>>>>> origin/main
